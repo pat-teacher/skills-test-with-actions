@@ -378,19 +378,19 @@
         <mxCell id="2YbgH77Sx4iIp7jszZxg-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="336.96999999999997" y="381.25" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2YbgH77Sx4iIp7jszZxg-25" value="&lt;b&gt;HEUTE&lt;br&gt;CRMA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="15" y="371.25" width="60" height="40" as="geometry" />
+        <mxCell id="2YbgH77Sx4iIp7jszZxg-25" value="&lt;b&gt;Variante1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="5" y="376.25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2YbgH77Sx4iIp7jszZxg-26" value="&lt;b&gt;Variante 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="2YbgH77Sx4iIp7jszZxg-26" value="&lt;b&gt;Variante 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="4.1" y="686.25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2YbgH77Sx4iIp7jszZxg-27" value="&lt;b&gt;Variante 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="2YbgH77Sx4iIp7jszZxg-27" value="&lt;b&gt;Variante 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="5" y="934" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="234tp6OSNOF4crNRcXrV" name="Data Management">
+  <diagram id="234tp6OSNOF4crNRcXrV" name="CRMA">
     <mxGraphModel dx="1828" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
