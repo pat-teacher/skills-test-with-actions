@@ -339,6 +339,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JulnAEEZFJUyAHD_-O94-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="265" width="161.78" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="180" height="150" as="geometry" />
         </mxCell>
@@ -349,22 +352,30 @@
           <mxGeometry x="620" y="346.5" width="135.27" height="130" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="81.78" y="360" width="160" height="110" as="geometry" />
+          <mxGeometry x="81.78" y="410" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;strokeColor=#666666;" edge="1" parent="1" source="v8vtwaIxvWN3WRH0wQzm-5" target="v8vtwaIxvWN3WRH0wQzm-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="456" />
+              <mxPoint x="160" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Data_Warehouses.svg;" vertex="1" parent="1">
-          <mxGeometry x="91.78" y="382.5" width="64" height="65" as="geometry" />
+          <mxGeometry x="91.78" y="432.5" width="46.77" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-6" value="Expressroute" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/ExpressRoute_Circuits.svg;" vertex="1" parent="1">
-          <mxGeometry x="278.22" y="417.5" width="32.81" height="30" as="geometry" />
+          <mxGeometry x="278.22" y="441.25" width="32.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="248.22" y="414.5" as="sourcePoint" />
-            <mxPoint x="338.22" y="414.5" as="targetPoint" />
+            <mxPoint x="249.63" y="433.75" as="sourcePoint" />
+            <mxPoint x="339.63000000000005" y="433.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-8" value="helsana onprem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-9" value="PowerBi&lt;br&gt;Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
           <mxGeometry x="665.27" y="366.5" width="37.5" height="50" as="geometry" />
@@ -396,7 +407,7 @@
           <mxGeometry x="472.52" y="432.5" width="39.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-19" value="DPF" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/API_Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="191.78" y="400" width="45.01" height="30" as="geometry" />
+          <mxGeometry x="190" y="465" width="45.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="euWCgib2c8zHMrMt-PaD-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="350" y="366.5" width="30" height="40" as="geometry" />
@@ -418,6 +429,37 @@
         </mxCell>
         <mxCell id="euWCgib2c8zHMrMt-PaD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.113;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="v8vtwaIxvWN3WRH0wQzm-16" target="v8vtwaIxvWN3WRH0wQzm-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-1" value="Middleware (ETL)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="341.74" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-2" value="D365" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/Dynamics365.svg;" vertex="1" parent="1">
+          <mxGeometry x="138.55" y="290" width="36.85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-5" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="199.62000000000003" y="355" width="37.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="100.16000000000003" y="497.5" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;endArrow=none;startFill=0;dashed=1;entryX=0.022;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JulnAEEZFJUyAHD_-O94-7" target="v8vtwaIxvWN3WRH0wQzm-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/ExpressRoute_Circuits.svg;" vertex="1" parent="1">
+          <mxGeometry x="278.22" y="270" width="32.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246.63" y="356.25" as="sourcePoint" />
+            <mxPoint x="336.63000000000005" y="356.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JulnAEEZFJUyAHD_-O94-16" value="Azure&lt;br&gt;Backbone&lt;br&gt;Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JulnAEEZFJUyAHD_-O94-15">
+          <mxGeometry x="0.0419" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
