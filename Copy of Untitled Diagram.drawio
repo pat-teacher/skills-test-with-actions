@@ -326,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w2pjKK2Ba49s_lqFkEk9-34" value="Outbound only&lt;div&gt;Azure Relay&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="408.8499999999999" y="130.5" as="geometry" />
+          <mxGeometry x="399.9099999999999" y="120" as="geometry" />
         </mxCell>
         <mxCell id="iK3Z4sUW-h3MY35__-GR-1" value="Azure&lt;br&gt;Backbone&lt;br&gt;Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="515.6799999999998" y="930" as="geometry" />
