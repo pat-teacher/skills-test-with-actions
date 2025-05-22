@@ -183,9 +183,6 @@
         <mxCell id="fnILvnNw3e_hWQ94wpYr-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Data_Warehouses.svg;" parent="1" vertex="1">
           <mxGeometry x="134.65" y="932.5" width="64" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="c3PgN8Xk6JFwIp1Su0XO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fnILvnNw3e_hWQ94wpYr-24" target="fnILvnNw3e_hWQ94wpYr-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fnILvnNw3e_hWQ94wpYr-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="439.65" y="909" width="193.05" height="130" as="geometry" />
         </mxCell>
@@ -266,7 +263,7 @@
         </mxCell>
         <mxCell id="w2pjKK2Ba49s_lqFkEk9-30" value="Azure&lt;br&gt;Backbone&lt;br&gt;Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w2pjKK2Ba49s_lqFkEk9-29" vertex="1" connectable="0">
           <mxGeometry x="0.0914" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w2pjKK2Ba49s_lqFkEk9-31" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;imageBackground=default;" parent="1" vertex="1">
@@ -398,6 +395,9 @@
         </mxCell>
         <mxCell id="kDim055seWfGnbcOKEwT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
           <mxGeometry x="478.9" y="416.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDim055seWfGnbcOKEwT-5" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Outbound only&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;*Azure Relay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460.28" y="661.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
