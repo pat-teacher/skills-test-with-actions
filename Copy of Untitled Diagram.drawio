@@ -395,6 +395,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CDxIOQZTzGaVoVQtEkVS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="863.13" y="164.25" width="121.78" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="JulnAEEZFJUyAHD_-O94-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="264.25" width="161.78" height="110" as="geometry" />
         </mxCell>
@@ -436,7 +439,7 @@
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-9" value="PowerBi&lt;br&gt;Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" parent="1" vertex="1">
           <mxGeometry x="905.27" y="364" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v8vtwaIxvWN3WRH0wQzm-11" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" parent="1" vertex="1">
+        <mxCell id="v8vtwaIxvWN3WRH0wQzm-11" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="648.77" y="475.75" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-12" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;startFill=1;endFill=1;" parent="1" edge="1">
@@ -450,7 +453,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v8vtwaIxvWN3WRH0wQzm-15" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" parent="1" vertex="1">
+        <mxCell id="v8vtwaIxvWN3WRH0wQzm-15" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="942.77" y="460" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8vtwaIxvWN3WRH0wQzm-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" parent="1" vertex="1">
@@ -498,7 +501,7 @@
         <mxCell id="JulnAEEZFJUyAHD_-O94-2" value="D365" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/dynamics365/Dynamics365.svg;" parent="1" vertex="1">
           <mxGeometry x="238.55" y="295.25" width="36.85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JulnAEEZFJUyAHD_-O94-5" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" parent="1" vertex="1">
+        <mxCell id="JulnAEEZFJUyAHD_-O94-5" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="299.62" y="354.25" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JulnAEEZFJUyAHD_-O94-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" parent="1" vertex="1">
@@ -518,6 +521,23 @@
         <mxCell id="JulnAEEZFJUyAHD_-O94-16" value="Azure&lt;br&gt;Backbone&lt;br&gt;Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JulnAEEZFJUyAHD_-O94-15" vertex="1" connectable="0">
           <mxGeometry x="0.0419" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDxIOQZTzGaVoVQtEkVS-2" value="M365" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="922.4" y="234.25" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CDxIOQZTzGaVoVQtEkVS-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_sharepoint;" vertex="1" parent="1">
+          <mxGeometry x="898.4" y="181.5" width="58.78" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CDxIOQZTzGaVoVQtEkVS-4" value="" style="endArrow=block;startArrow=none;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="927.29" y="274.25" as="sourcePoint" />
+            <mxPoint x="927.29" y="334.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDxIOQZTzGaVoVQtEkVS-5" value="Azure&lt;br&gt;Backbone&lt;br&gt;Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDxIOQZTzGaVoVQtEkVS-4">
+          <mxGeometry x="-0.3083" y="1" relative="1" as="geometry">
+            <mxPoint x="-38" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
