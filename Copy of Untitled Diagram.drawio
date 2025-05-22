@@ -195,8 +195,8 @@
         <mxCell id="fnILvnNw3e_hWQ94wpYr-29" value="VNet" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="571.4499999999999" y="1025" width="50.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fnILvnNw3e_hWQ94wpYr-31" value="Premium&lt;br&gt;License" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="568.67" y="870" width="70" height="40" as="geometry" />
+        <mxCell id="fnILvnNw3e_hWQ94wpYr-31" value="Premium&lt;br&gt;License" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="551.67" y="883" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnILvnNw3e_hWQ94wpYr-32" value="Expressroute" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/ExpressRoute_Circuits.svg;" parent="1" vertex="1">
           <mxGeometry x="374.65" y="977" width="32.81" height="30" as="geometry" />
