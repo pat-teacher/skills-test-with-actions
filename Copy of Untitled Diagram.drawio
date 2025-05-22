@@ -387,6 +387,18 @@
         <mxCell id="41tGtzTbO94o2JY7hZ-_-4" value="RG&lt;br&gt;Region" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="586.4" y="205" width="37.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kDim055seWfGnbcOKEwT-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="309.71" y="154" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDim055seWfGnbcOKEwT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="304.76" y="974" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDim055seWfGnbcOKEwT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="406.83" y="707.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDim055seWfGnbcOKEwT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+          <mxGeometry x="478.9" y="416.25" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
